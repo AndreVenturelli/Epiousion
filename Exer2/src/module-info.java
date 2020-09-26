@@ -1,0 +1,2 @@
+module Exer2 {
+}
